@@ -21,5 +21,5 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=adamgate&show_icons=true&theme=gruvbox&rank_icon=github" />
 </a> -->
 <a href="https://github.com/adamgate">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adamgate&layout=compact&theme=gruvbox&hide=c" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adamgate&layout=compact&theme=gruvbox&hide=c&bg_color=00000000" />
 </a>
