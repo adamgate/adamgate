@@ -17,9 +17,9 @@
 <br/> 
 
 <!-- https://github.com/anuraghazra/github-readme-stats -->
-<a href="https://github.com/adamgate">
+<!-- <a href="https://github.com/adamgate">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=adamgate&show_icons=true&theme=gruvbox&rank_icon=github" />
-</a>
+</a> -->
 <a href="https://github.com/adamgate">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adamgate&layout=compact&theme=gruvbox&hide=c" />
 </a>
