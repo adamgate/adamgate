@@ -13,10 +13,13 @@
 </a>
 
 <br/> 
+<br/> 
+<br/> 
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=convoychat&rank_icon=github" />
+<!-- https://github.com/anuraghazra/github-readme-stats -->
+<a href="https://github.com/adamgate">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=adamgate&show_icons=true&theme=gruvbox&rank_icon=github" />
 </a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adamgate&layout=compact&theme=gruvbox" />
+<a href="https://github.com/adamgate">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adamgate&layout=compact&theme=gruvbox&hide=c" />
 </a>
